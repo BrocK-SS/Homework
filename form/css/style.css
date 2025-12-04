@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+}
+
+.form {
+  max-width: 250px;
+}
+
+.form-group {
+  border-radius: 4px;
+}
+
+.title {
+  padding: 0;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.input-block {
+  margin-bottom: 5px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+textarea {
+  resize: vertical;
+  max-height: 150px;
+  min-height: 20px;
+  min-width: 166px;
+}
+
+.checkbox {
+  display: inline-block;
+}
+
+button {
+  margin-top: 5px;
+  border: none;
+  border-radius: 4px;
+}
